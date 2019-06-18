@@ -1,0 +1,12 @@
+div{
+	margin-left: 500px;
+	background-color: white;
+}
+p{
+		border: 1px solid blue;
+		margin-right: 500px;
+		margin-left: 500px;
+		padding-top: 5px;
+		padding-bottom: 5px; 
+		text-align: center;
+}
